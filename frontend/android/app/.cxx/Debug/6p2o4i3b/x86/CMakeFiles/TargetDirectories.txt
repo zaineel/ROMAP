@@ -1,0 +1,12 @@
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/CMakeFiles/appmodules.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/rncameraroll_autolinked_build/CMakeFiles/react_codegen_rncameraroll.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/rncameraroll_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/rncameraroll_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNPermissionsSpec_autolinked_build/CMakeFiles/react_codegen_RNPermissionsSpec.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNPermissionsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNPermissionsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

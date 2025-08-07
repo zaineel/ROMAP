@@ -1,0 +1,12 @@
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/rncameraroll_autolinked_build/CMakeFiles/react_codegen_rncameraroll.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/rncameraroll_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/rncameraroll_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNPermissionsSpec_autolinked_build/CMakeFiles/react_codegen_RNPermissionsSpec.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNPermissionsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNPermissionsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/zaineelmithani/rotaryapp/android/app/.cxx/Debug/6p2o4i3b/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
